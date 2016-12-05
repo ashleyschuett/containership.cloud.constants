@@ -8,6 +8,6 @@ module.exports = {
     SUBVALUE_VERTICAL_RIGHT_HAND : 'subvalue - vertical righthand',
     TOGGLE : 'toggle',
     FILEPICKER : 'filepicker',
-    INPUT_BOX : 'input box',
+    INPUT_BOX : 'input',
     TEXT_AREA : 'text area'
 }
