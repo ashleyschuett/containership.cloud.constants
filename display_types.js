@@ -2,6 +2,7 @@
 
 module.exports = {
     BOX : 'box',
+    IMAGE_BOX: 'image-box',
     RECTANGLE : 'rectangle',
     SUBVALUE_DROPDOWN_SEARCH : 'subvalue - dropdown search',
     SUBVALUE_HORIZONTAL_TAB : 'subvalue - horizontal tab',
